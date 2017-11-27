@@ -12,7 +12,7 @@ while(flag == 1) :
     print "1.Send email"
     print "2.Show number of unread messages"
     print "3.Read latest email"
-    print "4.Forward the oldest email in your inbox"
+    print "4.Forward (the oldest email in your inbox)"
     print "5.Exit"
 
     choice = input("Please enter your choice:")
@@ -166,4 +166,4 @@ while(flag == 1) :
 
 
 if(flag == 0) :
-    print "Program developed by RoundMelon Studio"
+    print "Program developed by RoundMelon Studio as part of Mini Project"
