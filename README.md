@@ -1,5 +1,5 @@
 ## Gmail CLI - Text Based Gmail Interface For Gmail Using Python
-This program is developed using Python 2.7 . Developed as part of mini project by [Joseph Varghese](https://github.com/iamjosephvarghese) , [Joseph Mathew](https://github.com/josephmathew900) and [myself](https://github.com/franklinrockz).
+This program is developed using Python 2.7.
 
 ### Permission to be Granted
 You will have to grant permission form your Gmail settings to use this program.  
